@@ -1,10 +1,10 @@
 {
-	"token": "YOUR LOGIN TOKEN HERE",
+	"token": "NTI2NzIxNTMwNzA5OTM0MDgw.DwJTQw.UWrx4WoSnPKRsxHrzXUti02J570",
 	"servers": [
-		"ID 1ST SERVER",
-		"ID 2ND SERVER"
+		"521749375714721813",
+		"521749375714721813"
 	],
-	"roleName": "THE ROLE NAME YOU WANT TO CHANGE ITS COLOR FROM HERE",
+	"roleName": "Nitro Player Support",
 	"colors": 12,
 	"speed": 60000,
 	"logging": true
