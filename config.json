@@ -6,6 +6,6 @@
 	],
 	"roleName": "Nitro Player Support",
 	"colors": 12,
-	"speed": 60000,
+	"speed": 1,
 	"logging": true
 }
